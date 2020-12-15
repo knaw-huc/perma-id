@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://gizmo-vis.github.io/gizmo/   [R=302,L]

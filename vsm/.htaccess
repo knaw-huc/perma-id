@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^(.*)$ https://raw.githubusercontent.com/vsm/vsm-to-rdf/master/vsm.ttl [R=302,L]

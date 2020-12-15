@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^v2$ http://asjsonld.ng.bluemix.net/ [R=302,L]

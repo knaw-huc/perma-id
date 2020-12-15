@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://www.esrl.noaa.gov/gmd/ccgg/ [R=302,L]

@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://www.nrcs.usda.gov/wps/portal/nrcs [R=302,L]

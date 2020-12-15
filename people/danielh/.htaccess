@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^/$	https://danielhers.github.io/ [R=302,last]

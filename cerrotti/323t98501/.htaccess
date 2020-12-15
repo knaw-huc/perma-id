@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^/?$ https://www.adrianacerrotti.com/323t98501 [R=302,L]

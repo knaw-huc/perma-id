@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^ontology$ https://github.com/BetaMasaheft/SyntaxeDuCodex [R=302,L]

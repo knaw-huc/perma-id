@@ -1,4 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ http://lily.ex.nii.ac.jp/index.php [R=302,L]
-RewriteRule ^v1$ http://lily.ex.nii.ac.jp/index.php [R=302,L]

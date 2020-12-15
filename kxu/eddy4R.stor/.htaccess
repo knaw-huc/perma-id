@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://github.com/kexu2014/NEON-Data-Skills-kexu2014/blob/patch-1/tutorials-in-development/eddy4r/stor.neon.vignette.Rmd [R=302,L]

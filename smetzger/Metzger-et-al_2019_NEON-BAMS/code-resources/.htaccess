@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://www.neonscience.org/resources/code-resources [R=302,L]

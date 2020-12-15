@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ http://open-multinet.info/ontology/omn-federation [R=302,L]

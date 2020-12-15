@@ -1,5 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^v1$ https://w3c.github.io/flex-ledger/flex-v1.jsonld [R=302,L]
-RewriteRule ^$ https://w3c.github.io/flex-ledger/ [R=302,L]
-

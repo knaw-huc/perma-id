@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://www.ncdc.noaa.gov/crn/ [R=302,L]

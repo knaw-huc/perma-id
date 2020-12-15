@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://github.com/lhncbc/CDE/tree/master/CONSIDER [R=301]

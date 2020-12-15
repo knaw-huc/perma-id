@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^v1$ https://www.syndicated.media/schema/1.0/ [R=302,L]

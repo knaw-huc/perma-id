@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^ http://crop.csiss.gmu.edu/data/ontology/IRRIGNE.owl [R=302,L]

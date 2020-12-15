@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://digitalconstruction.github.io/index.html [R=302,L]

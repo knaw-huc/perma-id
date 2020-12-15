@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ http://data.neonscience.org/prototype-search [R=302,L]

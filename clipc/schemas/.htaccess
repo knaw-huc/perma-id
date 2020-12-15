@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^vocabConfig.xsd$ http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/trunk/docs/vocabFrameworkSchema.xsd

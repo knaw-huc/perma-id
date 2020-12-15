@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://www.linkedin.com/in/clarepaulohio [R=302,L]

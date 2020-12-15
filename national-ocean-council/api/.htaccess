@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^(.+)$ https://nocv.tw.rpi.edu/elda/api/$1 [R=302,L]

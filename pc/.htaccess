@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^v1$ https://blog.podchaser.com/rss-spec/v1 [R=302,L]

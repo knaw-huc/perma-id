@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^(.*)$ http://bioportal.bioontology.org/ontologies/BCTT/$1 [R=302,L,R]

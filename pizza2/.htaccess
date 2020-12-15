@@ -1,5 +1,0 @@
-Options +FollowSymLinks 
-Options -MultiViews
-
-RewriteEngine on 
-RewriteRule ^$ https://vocol.iais.fraunhofer.de/pizza2/

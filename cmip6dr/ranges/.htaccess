@@ -1,6 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^day_clt.html$ http://clipc-services.ceda.ac.uk/ranges/day/pages/bar_clt.html
-
-
-

@@ -1,6 +1,0 @@
-# Turn off MultiViews
-Options -MultiViews
-
-# Basic redirect for the project page
-RewriteEngine On
-RewriteRule ^$ https://sites.google.com/view/federated-kbs-akbc19 [R=301,L]

@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://digitalbazaar.gitbooks.io/bedrock/content/ [R=303,L]

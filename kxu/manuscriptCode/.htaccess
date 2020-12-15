@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://github.com/kexu2014/NEON-FIU-algorithm-kexu2014/tree/ms4/flow/flow.stor/ms4DP4.R [R=302,L]

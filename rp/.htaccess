@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^v1$ https://www.radiopublic.com/schema/1.0 [R=302,L]

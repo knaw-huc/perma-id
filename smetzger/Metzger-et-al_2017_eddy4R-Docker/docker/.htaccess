@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://hub.docker.com/r/stefanmet/eddy4r/ [R=302,L]

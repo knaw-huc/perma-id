@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://atomgraph.github.io/Core/ns.ttl [R=302,L]

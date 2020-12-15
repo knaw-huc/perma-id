@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule (.*) http://n-fuse.github.io/legal-form-vocab$1 [R=302,L]

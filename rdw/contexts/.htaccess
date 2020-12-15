@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^vehicles$ https://rawgit.com/dvh/KentekenAPI/master/context.json [R=302,L]

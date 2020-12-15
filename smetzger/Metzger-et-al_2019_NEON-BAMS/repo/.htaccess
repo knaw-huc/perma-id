@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://github.com/NEONScience/eddy4R [R=302,L]

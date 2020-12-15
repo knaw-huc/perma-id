@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^(.*)$ http://harlocklodview.us-west-2.elasticbeanstalk.com/dataset_900/$1 [R=302,L]

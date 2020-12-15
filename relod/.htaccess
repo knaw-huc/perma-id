@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule (.*) http://141.57.11.86:8082/DatasetMatchingWeb/$1 [NC,L]

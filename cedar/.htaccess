@@ -1,3 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^(.*)$ http://cedar.openmadrigal.org/showExperiment/$1 [R=302,L]

@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://www.neonscience.org/field-sites/field-sites-map/UKFS [R=302,L]

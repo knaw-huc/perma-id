@@ -1,5 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ http://ld.hackers4peace.net/vocabs/role/ [R=302,L]
-
-

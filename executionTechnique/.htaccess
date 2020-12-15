@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^ontology$ https://raw.githubusercontent.com/EAGLE-BPN/epidocupconversion/master/ExecutionTechniqueOntology.owl [R=302,L]

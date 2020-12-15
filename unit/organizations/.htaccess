@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^sparql$ http://org.unit-1.crihan.fr/ [R=301,L]

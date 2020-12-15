@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^(.*)$ http://informaticaemprendimiento.org/ontologies/education/$1 [R=301,L]

@@ -1,4 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^(.+)$ http://linkeddata.systems/nanopubs_mario/$1 [R=302,L]
-

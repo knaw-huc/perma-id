@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://nadp.slh.wisc.edu/ [R=302,L]

@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ https://webcredits.solid.community/public/webcredits.ttl [R=302,L]

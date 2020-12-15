@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^$ http://data.neonscience.org/data-product-catalog [R=302,L]
